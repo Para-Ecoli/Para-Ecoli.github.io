@@ -1,0 +1,23 @@
+# VS Code
+.vscode/
+
+# IDE
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+logs
+*.log
+
+# Environment files
+.env*
+!.env.example
+
+# Temporary files
+tmp/
+temp/
+
+# OS generated files
+Thumbs.db
